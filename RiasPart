@@ -1,8 +1,10 @@
 #This is our group project!#
 
+
 name  = input("What is your name?")
 age = input("How old are you?")
 
 greeting = ("How are you,", name , "your age is,", age)
+
 print(greeting)
 print("This was our project!")
