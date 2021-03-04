@@ -1,7 +1,8 @@
-this is our group project
+#This is our group project!#
 
-name  = input("what is your name")
-age = input("how old are you?")
+name  = input("What is your name?")
+age = input("How old are you?")
 
-greeting = ("How are you," name , "your age is", age)
+greeting = ("How are you,", name , "your age is,", age)
 print(greeting)
+print("This was our project!")
